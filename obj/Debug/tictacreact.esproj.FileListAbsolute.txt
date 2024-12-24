@@ -1,0 +1,1 @@
+C:\_git\React\TicTacReact\obj\Debug\tictacreact.esproj.CoreCompileInputs.cache
